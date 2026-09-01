@@ -154,13 +154,3 @@ The log is created in the same folder where you run the script.
 
 This script is provided as-is, free to use and modify.  
 No warranty is implied. Always test with `-DryRun` and back up your data.
-```- Read/write permissions on the target folder
-
----
-
-## Installation
-
-1. Download `Shorten-Paths.ps1`
-2. (Recommended) Unblock the file after download:
-   ```powershell
-   Unblock-File .\Shorten-Paths.ps1
